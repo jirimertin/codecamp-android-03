@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CodeCamp03</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="ok">OK</string>
+    <string name="simple_dialog_title">My perfect title</string>
+    <string name="cancel">CANCEL</string>
+    <string name="hint_email_address">Email</string>
+    <string name="hint_email_subject">Subject</string>
+    <string name="hint_email_text">Text</string>
+    <string name="mail_sent_to_address">Mail sent to %1$s</string>
+    <string name="error_no_email_address">Cannot be empty</string>
+    <string name="error_invalid_email_address">Invalid email address</string>
+</resources>
